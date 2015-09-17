@@ -4,7 +4,7 @@
 <link rel="alternate" href="http://gotanda.pm.org/" />
 <author>karupanerura</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="v0.9.7">Perl Riji</generator>
-<id>tag:gotanda.pm.org,2015-08-20:</id>
+<id>tag:gotanda.pm.org,2015-09-17:</id>
 <entry>
 <title type="text">Gotanda.pm #6 を開催します</title>
 <link href="http://gotanda.pm.org/entry/2015-08-19-01.html" />
@@ -75,13 +75,13 @@
 </tr>
 <tr>
 <td style="text-align:left;"> 19:40〜20:00 </td>
-<td style="text-align:left;"> Talk: (募集中)       </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> Talk: papix          </td>
+<td style="text-align:left;"> Perlで支える自動化施策                                 </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 20:00〜20:20 </td>
-<td style="text-align:left;"> Talk: (募集中)       </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> Talk: key_amb        </td>
+<td style="text-align:left;"> 障害を防ぎ、サービスを守るために                       </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 20:20〜20:30 </td>
@@ -90,33 +90,33 @@
 </tr>
 <tr>
 <td style="text-align:left;"> 20:30〜20:35 </td>
-<td style="text-align:left;"> LT: (募集中)         </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> LT: okazu_dm         </td>
+<td style="text-align:left;"> 今日からはじめるPerl6                                  </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 20:35〜20:40 </td>
-<td style="text-align:left;"> LT: (募集中)         </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> LT: masasuzu         </td>
+<td style="text-align:left;"> 監視の7原則                                            </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 20:40〜20:45 </td>
-<td style="text-align:left;"> LT: (募集中)         </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> LT: riywo            </td>
+<td style="text-align:left;"> AWS CodeDeployでPerlアプリケーションをデプロイしてみる </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 20:45〜20:50 </td>
-<td style="text-align:left;"> LT: (募集中)         </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> LT: ks0608           </td>
+<td style="text-align:left;"> perl6, perl6, perl6!                                   </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 20:50〜20:55 </td>
-<td style="text-align:left;"> LT: (募集中)         </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> LT: tokuhirom        </td>
+<td style="text-align:left;"> Perl6 でまともに web アプリケーションを開発する        </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 20:55〜21:00 </td>
-<td style="text-align:left;"> LT: (募集中)         </td>
-<td style="text-align:left;"> (募集中)                                               </td>
+<td style="text-align:left;"> LT: karupanerura     </td>
+<td style="text-align:left;"> Perl MongerはなぜPerlに拘らないのか                    </td>
 </tr>
 <tr>
 <td style="text-align:left;"> 21:00〜      </td>
@@ -129,7 +129,7 @@
 ]]></content>
 <id>tag:gotanda.pm.org,2015-08-19:entry-2015-08-19-01.html</id>
 <published>2015-08-19T16:03:32+09:00</published>
-<updated>2015-08-21T07:00:57+09:00</updated>
+<updated>2015-09-17T18:09:58+09:00</updated>
 </entry>
 <entry>
 <title type="text">Gotanda.pm #5 を開催します</title>
